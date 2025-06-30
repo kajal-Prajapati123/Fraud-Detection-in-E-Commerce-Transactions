@@ -11,10 +11,9 @@ This project analyzes e-commerce transaction data to detect and understand fraud
 |------|-------------|
 | `Fraud_Detection_E-Commerce_Analysis.ipynb` | Complete fraud detection analysis using Python |
 | `Fraud Detection and Transaction Insights.pdf` | Final summarized report of insights |
-“Power BI dashboard and CSV are shared via Google Drive links due to file size limits on GitHub.”
 | [.pbix Power BI Dashboard (Google Drive)](https://drive.google.com/file/d/1IOGc5sxWDTbKk8Ghb5oXcQxrkA_yt5Ei/view?usp=sharing) | Interactive dashboard built using Power BI |
 | [Cleaned Dataset (.csv) (Google Drive)](https://drive.google.com/file/d/1bXfY59lCcAf1Jh0LpBDMYvhYVHFdMfEd/view?usp=sharing) | Cleaned and transformed dataset |
-
+“Power BI dashboard and CSV are shared via Google Drive links due to file size limits on GitHub.”
 ---
 
 ## Key Steps Performed
